@@ -1,3 +1,4 @@
-Initial content
+HEAD
 Different content 1
-Different content 2
+Additional content 2
+branch1
